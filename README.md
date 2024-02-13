@@ -1,1 +1,3 @@
-# shearwater
+# Shearwater Challenge
+
+[Challenge](CHALLENGE.md)
